@@ -1,4 +1,4 @@
-# alfread_workflows
+# alfred workflows
 
 workflows for [Alfred](https://www.alfredapp.com/)
 
